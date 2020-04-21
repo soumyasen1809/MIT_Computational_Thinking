@@ -1,5 +1,4 @@
-# MIT Computational Thinking
-Introduction to Computational Thinking and Data Science
+# MIT Introduction to Computational Thinking and Data Science
 
 Instructor(s)
 Prof. Eric Grimson and Prof. John Guttag
